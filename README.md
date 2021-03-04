@@ -1,6 +1,5 @@
 # Deep-Learning-GroupPorject-TeamJohnson
-# MMAI894 Project - Covid19 Detection
-# Deliverables (March 1 – March 7) 
+## Deliverables (March 1 – March 7) 
 
 SVM/LR – Ed/Stephan 
 
@@ -26,7 +25,7 @@ Amanda: Intro/Data Augmentation paper writing/Takeaway for each research paper
 
  
 
-# For Everyone 
+## For Everyone 
 
 GitHub Setup: 
 
