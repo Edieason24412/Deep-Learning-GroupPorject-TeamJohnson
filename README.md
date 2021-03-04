@@ -1,6 +1,6 @@
 # Deep-Learning-GroupPorject-TeamJohnson
-MMAI894 Project - Covid19 Detection
-Deliverables (March 1 – March 7) 
+# MMAI894 Project - Covid19 Detection
+# Deliverables (March 1 – March 7) 
 
 SVM/LR – Ed/Stephan 
 
@@ -10,37 +10,23 @@ Paper (Intro/Data Augmentation) - Hannah/Amanda
 
  
 
-Edison 
+Edison: Dataset Formatting/SVM/LR/Takeaway for each research paper/ 
 
-Dataset Formatting/SVM/LR/Takeaway for each research paper/ 
+Allen: CNN/NN 
 
-Allen 
+JT: CNN/NN 
 
-CNN/NN 
+Pranav: CNN/NN 
 
-JT 
+Hannah: Intro/Data Augmentation paper writing 
 
-CNN/NN 
+Stephan: SVM/LR 
 
-Pranav 
-
-CNN/NN 
-
-Hannah 
-
-Intro/Data Augmentation paper writing 
-
-Stephan 
-
-SVM/LR 
-
-Amanda 
-
-Intro/Data Augmentation paper writing/Takeaway for each research paper 
+Amanda: Intro/Data Augmentation paper writing/Takeaway for each research paper 
 
  
 
-For Everyone 
+# For Everyone 
 
 GitHub Setup: 
 
