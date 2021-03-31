@@ -1,4 +1,5 @@
 # Deep-Learning-GroupPorject-TeamJohnson
+# Covid19 Infection Classification Based on Lung X-Ray
 ## Deliverables (March 1 – March 7) 
 
 SVM/LR – Ed/Stephan 
